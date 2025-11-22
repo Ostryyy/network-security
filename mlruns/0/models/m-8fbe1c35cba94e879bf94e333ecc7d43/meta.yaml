@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/areko/Desktop/AI/Projects/network-security/mlruns/0/models/m-8fbe1c35cba94e879bf94e333ecc7d43/artifacts
+creation_timestamp: 1763810180138
+experiment_id: '0'
+last_updated_timestamp: 1763810184921
+model_id: m-8fbe1c35cba94e879bf94e333ecc7d43
+model_type: null
+name: model
+source_run_id: 73884087de9a498e8f071071619541ef
+status: 2
+status_message: null
